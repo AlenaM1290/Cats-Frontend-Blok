@@ -6,10 +6,10 @@ const nameCats = [
 ]
 
 const imageCats = [
-    'img_cats/01.png',
-    'img_cats/02.png',
-    'img_cats/03.png',
-    'img_cats/04.png'
+    'img/img_cats/01.png',
+    'img/img_cats/02.png',
+    'img/img_cats/03.png',
+    'img/img_cats/04.png'
 ]
 
 const infoCats = [
